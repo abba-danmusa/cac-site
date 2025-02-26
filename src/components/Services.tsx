@@ -62,7 +62,7 @@ function ServicesSection() {
   return (
     <div className="h-fit bg-white">
       <div className="bg-gradient-to-b bg-white">
-        <div className="container mx-auto px-4 py-16">
+        <div className=" mx-auto px-4 md:px-8 py-16">
           <h2 className="text-4xl md:text-5xl font-bold text-center text-gray-900 mb-4">
             Our <span className="text-green-600">Services</span>
           </h2>
@@ -73,15 +73,15 @@ function ServicesSection() {
 
           <div className="max-w-7xl mx-auto bg-white rounded-2xl shadow-xl overflow-hidden">
             <div className="flex flex-col md:flex-row">
-              <div className="md:w-1/3 bg-gray-50 p-6">
-                <nav className="space-y-4">
+              <div className="md:w-1/3 bg-gray-50 p-6 flex">
+                <nav className="space-y-4 flex flex-col flex-1">
                   {services.map((service, index) => {
                     const Icon = service.icon;
                     return (
                       <button
                         key={service.id}
                         onClick={() => setActiveService(service.id)}
-                        className={`w-full text-left p-4 rounded-xl transition-all duration-300 ${
+                        className={`w-full flex-1 text-left p-4 rounded-xl transition-all duration-300 ${
                           activeService === service.id
                             ? 'bg-green-600 text-white shadow-lg'
                             : 'bg-white text-gray-700 hover:bg-green-50'
