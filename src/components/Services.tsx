@@ -1,5 +1,5 @@
 'use client';
-import React, { useState, ComponentType, useRef } from 'react';
+import React, { useState, ComponentType } from 'react';
 import { FileCheck2, FileSpreadsheet, ArrowRight } from 'lucide-react';
 import { useInView } from 'react-intersection-observer';
 

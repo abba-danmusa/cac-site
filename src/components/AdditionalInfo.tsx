@@ -1,15 +1,15 @@
 'use client';
-import React, { useState, useRef } from 'react';
-import Image from 'next/image';
+import React, { useState} from 'react';
+// import Image from 'next/image';
 import Link from 'next/link';
-import { useInView } from 'react-intersection-observer';
+// import { useInView } from 'react-intersection-observer';
 
 const AdditionalInfo = () => {
-  const [ref, inView] = useInView({ threshold: 0.2 });
-  const [activeAccordion, setActiveAccordion] = useState(null);
+  // const [ref, inView] = useInView({ threshold: 0.2 });
+  const [activeAccordion, setActiveAccordion] = useState<number>();
 
-  const toggleAccordion = (index: any) => {
-    setActiveAccordion(activeAccordion === index ? null : index);
+  const toggleAccordion = (index: number) => {
+    setActiveAccordion(index);
   };
 
   const accordionItems = [
@@ -68,7 +68,7 @@ const AdditionalInfo = () => {
           <h2 className="text-4xl font-bold mb-8">Additional Information</h2> {/* Changed title here */}
           <div className="w-full">
             <dl className="space-y-4">
-              {accordionItems.map((item, index) => (
+              {accordionItems.map((item, index: number) => (
                 <div key={index} className="border-b border-gray-300 pb-2">
                   <dt
                     className="flex justify-between items-center cursor-pointer"
