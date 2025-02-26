@@ -1,0 +1,72 @@
+<svg width="665" height="680" viewBox="0 0 665 680" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.6" clip-path="url(#clip0_423_796)">
+<mask id="mask0_423_796" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-69" y="0" width="734" height="680">
+<path d="M-69 0H665V680H-69V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_423_796)">
+<mask id="mask1_423_796" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-221" y="-486" width="1823" height="1273">
+<path d="M1601.43 -485.503H-220.859V786.689H1601.43V-485.503Z" fill="black" fill-opacity="0.98"/>
+</mask>
+<g mask="url(#mask1_423_796)">
+<mask id="mask2_423_796" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-69" y="0" width="734" height="682">
+<path d="M665 0H-69V681.088H665V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_423_796)">
+<mask id="mask3_423_796" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="485" y="0" width="179" height="342">
+<path d="M485.977 0.919434H663.455V341.373H485.977V0.919434Z" fill="white"/>
+</mask>
+<g mask="url(#mask3_423_796)">
+<path d="M663.973 340.143V0.887207C565.657 4.01378 487.012 78.7602 487.012 170.518C487.012 262.25 565.657 337.016 663.973 340.143Z" fill="#E7EFE7"/>
+</g>
+<mask id="mask4_423_796" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-69" y="0" width="367" height="166">
+<path d="M-69 0.919434H298V165.715H-69V0.919434Z" fill="white"/>
+</mask>
+<g mask="url(#mask4_423_796)">
+<path d="M-69.0352 0.887207H297.468C294.091 91.8944 213.341 164.692 114.213 164.692C15.1133 164.692 -65.6575 91.8944 -69.0352 0.887207Z" fill="#E7EFE7"/>
+</g>
+<mask id="mask5_423_796" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-69" y="339" width="178" height="340">
+<path d="M-69 339.715H108.234V678.926H-69V339.715Z" fill="white"/>
+</mask>
+<g mask="url(#mask5_423_796)">
+<path d="M-69.0352 679.398V340.143C29.2744 343.269 107.926 418.016 107.926 509.774C107.926 601.506 29.2744 676.272 -69.0352 679.398Z" fill="#E7EFE7"/>
+</g>
+<mask id="mask6_423_796" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="296" y="515" width="368" height="164">
+<path d="M296.211 515.373H663.456V678.926H296.211V515.373Z" fill="white"/>
+</mask>
+<g mask="url(#mask6_423_796)">
+<path d="M663.972 679.398H297.469C300.846 588.397 381.596 515.593 480.717 515.593C579.817 515.593 660.595 588.397 663.972 679.398Z" fill="#E7EFE7"/>
+</g>
+<mask id="mask7_423_796" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="296" y="339" width="368" height="167">
+<path d="M296.211 339.715H663.456V505.43H296.211V339.715Z" fill="white"/>
+</mask>
+<g mask="url(#mask7_423_796)">
+<path d="M297.469 340.143H663.972C660.595 431.15 579.845 503.948 480.717 503.948C381.617 503.948 300.846 431.15 297.469 340.143Z" fill="#E7EFE7"/>
+</g>
+<mask id="mask8_423_796" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="296" y="0" width="180" height="342">
+<path d="M296.211 0.919434H475.235V341.373H296.211V0.919434Z" fill="white"/>
+</mask>
+<g mask="url(#mask8_423_796)">
+<path d="M297.469 340.143V0.887207C395.778 4.01378 474.43 78.7602 474.43 170.518C474.43 262.25 395.778 337.016 297.469 340.143Z" fill="#E7EFE7"/>
+</g>
+<mask id="mask9_423_796" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-69" y="175" width="367" height="167">
+<path d="M-69 175.658H298V341.373H-69V175.658Z" fill="white"/>
+</mask>
+<g mask="url(#mask9_423_796)">
+<path d="M297.468 340.143H-69.0352C-65.6575 249.142 15.0923 176.338 114.213 176.338C213.32 176.338 294.091 249.142 297.468 340.143Z" fill="#E7EFE7"/>
+</g>
+<mask id="mask10_423_796" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="118" y="339" width="180" height="340">
+<path d="M118.977 339.715H298.001V678.926H118.977V339.715Z" fill="white"/>
+</mask>
+<g mask="url(#mask10_423_796)">
+<path d="M297.469 679.398V340.143C199.16 343.269 120.508 418.016 120.508 509.774C120.508 601.506 199.16 676.272 297.469 679.398Z" fill="#E7EFE7"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_423_796">
+<rect width="734" height="680" fill="white" transform="translate(-69)"/>
+</clipPath>
+</defs>
+</svg>

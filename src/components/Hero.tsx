@@ -39,7 +39,7 @@ function HeroSection() {
         {/* Header */}
         <header className={`fixed w-full top-0 z-50 transition-all duration-300 ${isScrolled ? 'bg-white shadow-sm' : 'bg-transparent'}`}>
           <div className=" mx-auto px-4">
-            <div className="flex items-center justify-between py-4">
+            <div className="flex items-center justify-between py-2">
               {/* Logo */}
               <Link href="/">
                 <Image
@@ -152,7 +152,7 @@ function HeroSection() {
         {/* Hero Section */}
         <section className="relative pt-32 pb-20 min-h-screen">
           <div className="mx-auto px-4 md:px-8  ">
-            <div className="flex flex-col lg:flex-row w-full lg:mt-[3rem] lg:items-center justify-between   ">
+            <div className="flex flex-col lg:flex-row w-full lg:mt-[2rem] lg:items-center justify-between   ">
               <div className="w-full lg:w-1/2 text-white animate-fade-in md:mb-[10rem] lg:mb-0">
                 <div className="flex items-center space-x-4 mb-8">
                   <div className="w-16 h-16 bg-white/10 backdrop-blur-sm rounded-full flex items-center justify-center hover-lift">
@@ -185,7 +185,7 @@ function HeroSection() {
                 </div>
               </div>
               <div className="lg:w-1/2 w-full mt-10 md:mt-0 animate-scale-in rounded-xl">
-                <img className='rounded-xl opacity-70' src="https://e8wm23is9ki.exactdn.com/wp-content/uploads/2024/05/cac-d.jpg?strip=all&lossy=1&ssl=1" alt="" />
+                <img className='rounded-xl ' src="https://e8wm23is9ki.exactdn.com/wp-content/uploads/2024/05/cac-d.jpg?strip=all&lossy=1&ssl=1" alt="" />
               </div>
             </div>
           </div>
